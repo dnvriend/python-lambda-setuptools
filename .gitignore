@@ -1,0 +1,11 @@
+.idea
+.vscode
+.eggs
+buckets.egg-info
+build
+dist
+*.egg-info
+output.txt
+.terraform
+*.tfstate
+*.tfstate.*
